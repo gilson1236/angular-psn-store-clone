@@ -1,0 +1,4 @@
+[{"_id": 1, "cover": "assets/bt-1.jpg", "label": "DIGITAL", "type": "DIGITAL | PS4", "price": 129.99},
+ {"_id": 2, "cover": "assets/bt-4.jpg", "label": "EXCLUSIVE", "type": "DISC | PS5", "price": 269.99},
+ {"_id": 3, "cover": "assets/ac-cover.jpg", "label": "BEST OF YEAR", "type": "DIGITAL | PS5", "price": 369.99},
+ {"_id": 4, "cover": "assets/bt-hardline.jpg", "label": "NEW", "type": "DIGITAL | PS3 PS4 PS5", "price": 369.99}]
